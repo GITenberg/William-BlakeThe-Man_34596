@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37108'
     url: http://www.gutenberg.org/2009/agents/37108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34596#William-BlakeThe-Man
 gutenberg_issued: '2010-12-08'
 gutenberg_type: Text
 identifiers:
